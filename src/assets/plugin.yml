@@ -1,8 +1,8 @@
-identifier: sh.cider.plugin-template-wip
+identifier: com.oliemanq.voiceFeaturesTest
 name: Voice features test
 description: adds the ability to lower volume when mic picks up talking
 author: Oliemanq
-repo: https://github.com/Oliemanq/voiceCommandsTest
+repo: https://github.com/Oliemanq/voiceFeaturesTest
 entry:
   "plugin.js":
     type: main

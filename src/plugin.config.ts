@@ -5,12 +5,12 @@ import { createId } from "@paralleldrive/cuid2"
  */
 export default {
     ce_prefix: createId(),
-    identifier: 'org.username.plugin-template',
-    name: 'Cider Plugin Template',
-    description: 'A template for creating a Cider plugin.',
+    identifier: 'org.oliemanq.voice-features-test',
+    name: 'Voice features test',
+    description: 'a plugin to test voice features',
     version: '0.0.1',
-    author: 'your_username',
-    repo: 'https://github.com/ciderapp/plugin-template',
+    author: 'Oliemanq',
+    repo: 'https://github.com/Oliemanq/voiceFeaturesTest',
     entry: {
         'plugin.js': {
             type: 'main',
