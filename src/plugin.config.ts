@@ -5,7 +5,7 @@ import { createId } from "@paralleldrive/cuid2"
  */
 export default {
     ce_prefix: createId(),
-    identifier: 'org.oliemanq.voice-features-test',
+    identifier: 'dev.oliemanq.voice-features-test',
     name: 'Voice features test',
     description: 'a plugin to test voice features',
     version: '0.0.1',
